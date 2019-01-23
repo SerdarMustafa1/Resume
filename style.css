@@ -1,0 +1,29 @@
+body {
+	background-color: #232323;
+}
+
+h6 {
+	font-weight: bold;
+	color: black;
+}
+
+#profile {
+  text-align: justify;
+  padding-left: 0;
+}
+
+.card-text {
+	text-align: justify;
+}
+
+.card-body {
+	text-align: justify;
+}
+
+.skill-bar {
+	padding: 20px;
+}
+
+.card mt-4  {
+	padding: 20px;
+}
